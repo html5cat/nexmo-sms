@@ -1,2 +1,0 @@
-# nexmo-sms
-Begin app
